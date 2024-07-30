@@ -1,0 +1,14 @@
+{
+  "name": "ejercisio",
+  "version": "1.0.0",
+  "description": "aprendiendo sass y npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SASS"
+  ],
+  "author": "Gadiel",
+  "license": "ISC"
+}
